@@ -41,4 +41,4 @@ docker run --rm -v $(shell pwd)/in:/home/in/ -v $(shell pwd)/out:/home/out/ -v $
 ```
 
 Notes:
-* You can use the make file in the repository and make everything above by just typing make pull and make run
+* You can use the make file in the repository and do everything above by just typing make pull and make run
